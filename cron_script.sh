@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 PROJ_DIR="/home/admin/test_dockertube"
 DEST_DIR="/home/admin/files/run"
